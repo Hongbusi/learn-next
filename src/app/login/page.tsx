@@ -15,6 +15,9 @@ export default function Login() {
           <rect width="100%" height="100%" fill="url(#grid-bg)"></rect>
         </svg>
       </div>
+      <div className="relative flex flex-1 flex-col justify-center items-center pt-12 pb-36">
+        <div className="mx-auto mb-16 w-auto h-6 text-2xl text-slate-900">Adminify</div>
+      </div>
     </main>
   )
 }
