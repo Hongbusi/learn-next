@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Login() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="relative flex flex-1 overflow-hidden px-4 py-8 sm:px-6 lg:px-8">
       test
     </main>
   )
